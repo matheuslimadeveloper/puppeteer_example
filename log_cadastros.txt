@@ -1,0 +1,129 @@
+[11/4/2025, 9:09:30 PM] Login page loaded
+[11/4/2025, 9:09:33 PM] Signup button clicked
+[11/4/2025, 9:09:43 PM] Form filled
+[11/4/2025, 9:09:47 PM] Form submitted
+[11/4/2025, 9:09:47 PM] Browser closed
+[11/4/2025, 9:09:50 PM] 
+[INFO] Attempt 4/6: em4ai31@te3st.com - Starting new browser
+[11/4/2025, 9:09:55 PM] Login page loaded
+[11/4/2025, 9:09:58 PM] Signup button clicked
+[11/4/2025, 9:10:06 PM] Form filled
+[11/4/2025, 9:10:10 PM] Form submitted
+[11/4/2025, 9:10:10 PM] Browser closed
+[11/4/2025, 9:10:13 PM] 
+[INFO] Attempt 5/6: email72@1test.com - Starting new browser
+[11/4/2025, 9:10:18 PM] Login page loaded
+[11/4/2025, 9:10:21 PM] Signup button clicked
+[11/4/2025, 9:10:29 PM] Form filled
+[11/4/2025, 9:10:33 PM] Form submitted
+[11/4/2025, 9:10:34 PM] Browser closed
+[11/4/2025, 9:10:37 PM] 
+[INFO] Attempt 6/6: ou5t3ro@ema3il.com - Starting new browser
+[11/4/2025, 9:10:42 PM] Login page loaded
+[11/4/2025, 9:11:46 PM] Script started - Mass registration with new browser per account
+[11/4/2025, 9:11:46 PM] 6 accounts loaded
+[11/4/2025, 9:11:46 PM] 
+[INFO] Attempt 1/6: emai31@te3st.com - Starting new browser
+[11/4/2025, 9:11:52 PM] Login page loaded
+[11/4/2025, 9:11:55 PM] Signup button clicked
+[11/4/2025, 9:12:03 PM] Form filled
+[11/4/2025, 9:12:07 PM] Form submitted
+[11/4/2025, 9:12:07 PM] Browser closed
+[11/4/2025, 9:12:10 PM] 
+[INFO] Attempt 2/6: email2@test.com - Starting new browser
+[11/4/2025, 9:12:15 PM] Login page loaded
+[11/4/2025, 9:12:18 PM] Signup button clicked
+[11/4/2025, 9:12:26 PM] Form filled
+[11/4/2025, 9:12:30 PM] Form submitted
+[11/4/2025, 9:12:30 PM] Browser closed
+[11/4/2025, 9:12:33 PM] 
+[INFO] Attempt 3/6: out3ro@ema3il.com - Starting new browser
+[11/4/2025, 9:12:39 PM] Login page loaded
+[11/4/2025, 9:12:41 PM] Signup button clicked
+[11/4/2025, 9:12:51 PM] Form filled
+[11/4/2025, 9:12:55 PM] Form submitted
+[11/4/2025, 9:12:55 PM] Browser closed
+[11/4/2025, 9:12:58 PM] 
+[INFO] Attempt 4/6: em4ai31@te3st.com - Starting new browser
+[11/4/2025, 9:13:03 PM] Login page loaded
+[11/4/2025, 9:13:06 PM] Signup button clicked
+[11/4/2025, 9:13:14 PM] Form filled
+[11/4/2025, 9:13:18 PM] Form submitted
+[11/4/2025, 9:13:18 PM] ERROR: Attempted to use detached Frame 'A67ECEB3A19D05BD089918A2C3A43BA5'.
+[11/4/2025, 9:13:18 PM] Browser closed
+[11/4/2025, 9:13:42 PM] ERROR: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+[11/4/2025, 9:13:42 PM] Browser closed
+[11/4/2025, 9:13:42 PM] FINAL: 0 success, 5 exists, 1 failed
+[11/4/2025, 9:14:18 PM] Script started - Mass registration with new browser per account
+[11/4/2025, 9:14:18 PM] 6 accounts loaded
+[11/4/2025, 9:14:18 PM] 
+[INFO] Attempt 1/6: emai31@te3st.com - Starting new browser
+[11/4/2025, 9:14:24 PM] Login page loaded
+[11/4/2025, 9:14:26 PM] Signup button clicked
+[11/4/2025, 9:14:34 PM] Form filled
+[11/4/2025, 9:14:38 PM] Form submitted
+[11/4/2025, 9:14:39 PM] Browser closed
+[11/4/2025, 9:14:42 PM] 
+[INFO] Attempt 2/6: email2@test.com - Starting new browser
+[11/4/2025, 9:14:47 PM] Login page loaded
+[11/4/2025, 9:14:49 PM] Signup button clicked
+[11/4/2025, 9:14:57 PM] Form filled
+[11/4/2025, 9:15:01 PM] Form submitted
+[11/4/2025, 9:15:01 PM] Browser closed
+[11/4/2025, 9:15:04 PM] 
+[INFO] Attempt 3/6: out3ro@ema3il.com - Starting new browser
+[11/4/2025, 9:15:10 PM] Login page loaded
+[11/4/2025, 9:15:12 PM] Signup button clicked
+[11/4/2025, 9:15:22 PM] Form filled
+[11/4/2025, 9:15:26 PM] Form submitted
+[11/4/2025, 9:23:46 PM] Script started - Mass registration with new browser per account
+[11/4/2025, 9:23:46 PM] 6 accounts loaded
+[11/4/2025, 9:23:46 PM] 
+[INFO] Attempt 1/6: emai31@te3st.com - Starting new browser
+[11/4/2025, 9:23:52 PM] Login page loaded
+[11/4/2025, 9:23:54 PM] Signup button clicked
+[11/4/2025, 9:24:03 PM] Form filled
+[11/4/2025, 9:24:07 PM] Form submitted
+[11/4/2025, 9:24:07 PM] Browser closed
+[11/4/2025, 9:24:10 PM] 
+[INFO] Attempt 2/6: email2@test.com - Starting new browser
+[11/4/2025, 9:24:15 PM] Login page loaded
+[11/4/2025, 9:24:18 PM] Signup button clicked
+[11/4/2025, 9:24:26 PM] Form filled
+[11/4/2025, 9:24:30 PM] Form submitted
+[11/4/2025, 9:24:30 PM] Browser closed
+[11/4/2025, 9:24:33 PM] 
+[INFO] Attempt 3/6: out3ro@ema3il.com - Starting new browser
+[11/4/2025, 9:24:39 PM] Login page loaded
+[11/4/2025, 9:24:41 PM] Signup button clicked
+[11/4/2025, 9:24:50 PM] Form filled
+[11/4/2025, 9:24:54 PM] Form submitted
+[11/4/2025, 9:24:55 PM] Browser closed
+[11/4/2025, 9:24:58 PM] 
+[INFO] Attempt 4/6: em4ai31@te3st.com - Starting new browser
+[11/4/2025, 9:25:03 PM] Login page loaded
+[11/4/2025, 9:25:06 PM] Signup button clicked
+[11/4/2025, 9:25:14 PM] Form filled
+[11/4/2025, 9:25:18 PM] Form submitted
+[11/4/2025, 9:25:18 PM] Browser closed
+[11/4/2025, 9:25:21 PM] 
+[INFO] Attempt 5/6: email72@1test.com - Starting new browser
+[11/4/2025, 9:25:27 PM] Login page loaded
+[11/4/2025, 9:25:29 PM] Signup button clicked
+[11/4/2025, 9:25:38 PM] Form filled
+[11/4/2025, 9:25:42 PM] Form submitted
+[11/4/2025, 9:25:42 PM] Browser closed
+[11/4/2025, 9:25:45 PM] 
+[INFO] Attempt 6/6: ou5t3ro@ema3il.com - Starting new browser
+[11/4/2025, 9:25:50 PM] Login page loaded
+[11/4/2025, 9:25:53 PM] Signup button clicked
+[11/4/2025, 9:26:03 PM] Form filled
+[11/4/2025, 9:26:07 PM] Form submitted
+[11/4/2025, 9:26:07 PM] Browser closed
+[11/4/2025, 9:26:07 PM] FINAL: 0 success, 6 exists, 0 failed
+[11/4/2025, 9:40:56 PM] Script started - Mass registration with new browser per account
+[11/4/2025, 9:40:56 PM] 6 accounts loaded
+[11/4/2025, 9:40:56 PM] 
+[INFO] Attempt 1/6: emai31@te3st.com - Starting new browser
+[11/4/2025, 9:41:01 PM] Login page loaded
+[11/4/2025, 9:41:04 PM] Signup button clicked

@@ -1,0 +1,17 @@
+email2@test.com:senha456 | EXISTS |  | 11/4/2025, 9:09:21 PM
+out3ro@ema3il.com:MinhaSenh@789 | EXISTS |  | 11/4/2025, 9:09:47 PM
+em4ai31@te3st.com:senha1234 | EXISTS |  | 11/4/2025, 9:10:10 PM
+email72@1test.com:senha4564 | EXISTS |  | 11/4/2025, 9:10:33 PM
+emai31@te3st.com:senha123 | EXISTS |  | 11/4/2025, 9:12:07 PM
+email2@test.com:senha456 | EXISTS |  | 11/4/2025, 9:12:30 PM
+out3ro@ema3il.com:MinhaSenh@789 | EXISTS |  | 11/4/2025, 9:12:55 PM
+em4ai31@te3st.com:senha1234 | ERROR | Attempted to use detached Frame 'A67ECEB3A19D05BD089918A2C3A43BA5'. | 11/4/2025, 9:13:18 PM
+ou5t3ro@ema3il.com:MinhaS4enh@789 | ERROR | Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed. | 11/4/2025, 9:13:42 PM
+emai31@te3st.com:senha123 | EXISTS |  | 11/4/2025, 9:14:38 PM
+email2@test.com:senha456 | EXISTS |  | 11/4/2025, 9:15:01 PM
+emai31@te3st.com:senha123 | EXISTS |  | 11/4/2025, 9:24:07 PM
+email2@test.com:senha456 | EXISTS |  | 11/4/2025, 9:24:30 PM
+out3ro@ema3il.com:MinhaSenh@789 | EXISTS |  | 11/4/2025, 9:24:54 PM
+em4ai31@te3st.com:senha1234 | EXISTS |  | 11/4/2025, 9:25:18 PM
+email72@1test.com:senha4564 | EXISTS |  | 11/4/2025, 9:25:42 PM
+ou5t3ro@ema3il.com:MinhaS4enh@789 | EXISTS |  | 11/4/2025, 9:26:07 PM
